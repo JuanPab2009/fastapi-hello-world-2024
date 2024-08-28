@@ -10,3 +10,4 @@ class Books(Base):
     author = Column(String)
     description = Column(String)
     rating = Column(Integer)
+
